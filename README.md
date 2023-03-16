@@ -2,7 +2,11 @@
 Estudando :<p><p>
 ⚙ HTML<br>
 ⚙ CSS<br>
-⚙ JavaScript<br><hr>
+⚙ BOOTSTRAP<br>
+⚙ JAVASCRIPT<br>
+⚙ NODE.JS<br>
+⚙ REACT<br><hr>
+
 Email para o contato : bkrug@outlook.com.br<hr>
 
 <div>
